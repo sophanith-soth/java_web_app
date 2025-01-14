@@ -1,1 +1,3 @@
-# java_web_app
+# java-web-app
+
+modify README
